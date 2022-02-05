@@ -6,4 +6,4 @@
     - Swing;
     - Padrão de projeto MVC.
 * 📆 Data de criação: 10/02/2021.
-* :warning: Status do Projeto: Em desenvolvimento.
+* :warning: Status do Projeto: Concluído.
