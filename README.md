@@ -1,6 +1,6 @@
 # Tic Tac Toe (Jogo da Velha)
 
-* 👩‍💻 Descrição: Jogo da velha multiplayer (apenas usuários humanos).
+* 👩‍💻 Descrição: Jogo da velha *multiplayer* (apenas usuários humanos).
 * 🛠 Tecnologias utilizadas: 
     - Java;
     - Swing;
